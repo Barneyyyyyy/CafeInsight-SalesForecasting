@@ -4,3 +4,8 @@ scikit-learn
 openpyxl
 matplotlib
 seaborn
+statsmodels
+tensorflow==2.14.0
+tensorflow-metal==1.1.0
+ipykernel==6.22.
+tensorboard==2.14.1
